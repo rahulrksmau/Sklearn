@@ -1,0 +1,11 @@
+Loan Submission Machine Learning Problem (Analytical Vidya) : This Challenge is the prediction of whether a customer will pay his loads or not. This problem contain data of customer’s knowledge and last loan submission history, based on that model will predict he/she will pay his/her loans on time or not.
+
+Model used : Supervise Learning GBM, Decision Tree, Logical and Linear Regression. 
+Datasets : https://github.com/rahulrksmau/Sklearn/blob/master/Test.csv , https://github.com/rahulrksmau/Sklearn/blob/master/Train.csv
+Link : https://github.com/rahulrksmau/Sklearn
+
+Steps done : creation of modified test and train dataset using feature engineering and data cleaning , model training, testing over train dataset, model accuracy, predicting the result for actual dataset at last creation of submission csv. 
+Result :  GBM 79.5%
+Decision Tree 96.6%
+Logical Regression 98.5%
+Linear Regression 19%
